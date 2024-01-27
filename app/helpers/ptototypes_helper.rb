@@ -1,0 +1,3 @@
+module PtototypesHelper
+
+end
